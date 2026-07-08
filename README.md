@@ -142,34 +142,22 @@ Built a scalable SaaS platform featuring a real-time Kanban engine and interacti
 ---
 
 <div align="center">
-  <h2> 💼 Professional Experience </h2>
-</div>
-
-**AI Training Specialist** | *Outlier (Remote)* <br>
-*2023 – Present*
-- Conducted rigorous evaluation of AI model outputs to ensure logical correctness, factual accuracy, and alignment with strict human-preference guidelines.
-- Rated model responses against complex technical rubrics, actively identifying flaws, reasoning errors, and inconsistencies in generated solutions.
-- Provided detailed written feedback and authored high-quality prompt-response pairs to help build datasets for training AI systems.
-
----
-
-<div align="center">
   <h2> 🏆 Achievements & Certifications </h2>
 </div>
 
 | Recognition | Details |
 | :--- | :--- |
+| **Oracle** | 2x Certified Professional (OCI Generative AI & Cloud) |
 | **HackerRank** | Software Engineer Certification (Data Structures & Algorithms) |
-| **Oracle** | OCI Generative AI Certification |
+| **J.P. Morgan** | Software Engineering Virtual Experience |
 | **Academic** | Bachelor of Computer Applications (BCA), Graphic Era Hill University |
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/NPTEL-Certified-00529B?style=for-the-badge&logo=nptel&logoColor=white">
-  <img src="https://img.shields.io/badge/Cisco-Certified_Network_Associate-00BCEB?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-2x_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/HackerRank-Software_Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white">
+  <img src="https://img.shields.io/badge/J.P._Morgan-Software_Engineering-00519E?style=for-the-badge">
 </div>
 
 ---
@@ -180,7 +168,6 @@ Built a scalable SaaS platform featuring a real-time Kanban engine and interacti
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
 </div>
 
 ---
@@ -238,3 +225,22 @@ Learning: Advanced Rust patterns & Frontier AI evaluation techniques
 Building: Scalable serverless microservices & Event-driven architectures
 Exploring: Decentralized AI systems & RAG optimization
 Open To: Full-time Software Engineering & AI Training roles
+```
+
+---
+
+<div align="center">
+  <h2> 🌐 Let's Connect </h2>
+
+  <a href="mailto:omchaddha.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/omchadha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Omcodesk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Translating deep software engineering expertise into next-generation intelligent systems."</i>
+</div>
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer)
