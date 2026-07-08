@@ -177,11 +177,11 @@ Built a scalable SaaS platform featuring a real-time Kanban engine and interacti
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omcodesk&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=6A0DAD&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omcodesk&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=6A0DAD&bg_color=0D1117" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omcodesk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omcodesk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omcodesk&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=6A0DAD&bg_color=0D1117" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omcodesk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%">
 </p>
 
 ---
@@ -191,7 +191,7 @@ Built a scalable SaaS platform featuring a real-time Kanban engine and interacti
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omcodesk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omcodesk&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies">
 </p>
 
 ---
@@ -202,16 +202,6 @@ Built a scalable SaaS platform featuring a real-time Kanban engine and interacti
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omcodesk&bg_color=0D1117&color=8A2BE2&line=6A0DAD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
-</p>
-
----
-
-<div align="center">
-  <h2> 🐍 Contribution Snake </h2>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omcodesk/Omcodesk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 ---
