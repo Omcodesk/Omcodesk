@@ -201,7 +201,7 @@ Built a scalable SaaS platform featuring a real-time Kanban engine and interacti
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omcodesk/Omcodesk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Omcodesk/Omcodesk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
