@@ -74,10 +74,10 @@ I am a **Software Engineer** blending full-stack development with hands-on AI tr
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Generative AI & LLMs** | Advanced | Integration of Groq LLaMA-3 APIs, RAG memory systems, Prompt Engineering |
-| **Reinforcement Learning** | Advanced | RLHF, Evaluation of frontier models, logic testing, code accuracy rubrics |
-| **Computer Vision** | Intermediate | OpenCV, CNN-based models (YuNet/SFace), Real-time facial recognition |
-| **Data Pipelines** | Advanced | Event-driven processing, NLP workflows, Upstash Redis distributed caching |
+| **Generative AI & LLMs** | Intermediate | Building with Groq APIs, exploring RAG systems, and Prompt Engineering |
+| **AI Model Evaluation** | Intermediate | Testing logic, factual accuracy, and understanding RLHF concepts |
+| **Computer Vision** | Exploring | Learning OpenCV and basic facial recognition implementations |
+| **Data Engineering** | Intermediate | Event-driven processing, API integrations, and database caching |
 
 ---
 
