@@ -2,7 +2,7 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Om%20Chaddha&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Specialist;Full-Stack+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 <br>
 
